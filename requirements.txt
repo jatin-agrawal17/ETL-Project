@@ -3,5 +3,9 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+# pymongo[srv]==3.6
+certifi
+pymongo
+dotenv
 
 # -e .
