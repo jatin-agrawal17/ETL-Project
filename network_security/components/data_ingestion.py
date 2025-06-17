@@ -90,4 +90,3 @@ class DataIngestion:
             raise CustomException(e,sys)
         
         
-pd.DataFrame.to_csv
